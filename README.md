@@ -14,7 +14,7 @@ Solutions for Algorithms Laboratory (ETH HS 2021)
 | Week 2 | [Beach Bars](Week%202/Beach%20Bars/beach_bars.pdf) | [:page_with_curl:](Week%202/Beach%20Bars/src/main.cpp) | 100 | SW |
 | Week 2 | [The Great Game](Week%202/The%20Great%20Game/the_great_game.pdf) | [:page_with_curl:](Week%202/The%20Great%20Game/src/main.cpp) | 100 | DP |
 | Week 2 | [Defensive Line](Week%202/Defensive%20Line/defensive_line.pdf) | [:page_with_curl:](Week%202/Defensive%20Line/src/main.cpp) | 100 | SW, DP |
-| Week 3 [PotW] | [From Russia With Love](Week%203/[PotW]%20From%20Russia%20with%20Love/from_russia_with_love.pdf) | [:page_with_curl:](Week%203/[PotW]%20From%20Russia%20with%20Love/src/main.cpp) | 100 | DP |
+| Week 3 [PotW] | [From Russia with Love](Week%203/[PotW]%20%20From%20Russia%20with%20Love/from_russia_with_love.pdf) | [:page_with_curl:](Week%203/[PotW]%20%20From%20Russia%20with%20Love/src/main.cpp) | 100 | DP |
 
 ### Legend
 - PotW: This was a "Problem of the Week"
