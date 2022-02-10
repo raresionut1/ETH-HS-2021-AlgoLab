@@ -1,5 +1,6 @@
 # ETH-HS-2021-AlgoLab
 Solutions for Algorithms Laboratory (ETH HS 2021)
+
 In [algolab_problems.xlsx](algolab_problems.xlsx) you can find additional information on how to approach each problem.
 
 ## Problems
