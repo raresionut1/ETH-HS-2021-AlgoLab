@@ -76,21 +76,21 @@ In [algolab_problems.xlsx](algolab_problems.xlsx) you can find additional inform
 
 ### Legend
 - PotW: This was a "Problem of the Week"
-- 2C	2-Coloring
-- BCC	Biconnected Components
-- BS	Binary Search
-- DFS	Depth First Search
-- DP	Dynamic Programming
-- DT	Delaunay Triangulation
-- LP	Linear Programming
-- MM	Maximal Matching
-- MST	Minimum Spanning Tree
-- MC	Min Cut
-- MF	Max Flow
-- MFMC	Max Flow Min Cost
-- PS    Partial Sums
-- S&L	Split & List
-- SCC	Strongly Connected Components
-- SW	Sliding Window
-- UF	Union Find
+- 2C:	2-Coloring
+- BCC:	Biconnected Components
+- BS:	Binary Search
+- DFS:	Depth First Search
+- DP:	Dynamic Programming
+- DT:	Delaunay Triangulation
+- LP:	Linear Programming
+- MM:	Maximal Matching
+- MST:	Minimum Spanning Tree
+- MC:	Min Cut
+- MF:	Max Flow
+- MFMC:	Max Flow Min Cost
+- PS:    Partial Sums
+- S&L:	Split & List
+- SCC:	Strongly Connected Components
+- SW:	Sliding Window
+- UF:	Union Find
 
